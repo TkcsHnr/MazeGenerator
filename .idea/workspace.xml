@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4a4b0f8-03b7-4b67-bf91-c7275a496eb6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YlNuXxurUd4v1ql4UtecmviYxI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PiCollisions" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Generator">
+    <configuration name="GenBacktrack" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hunor.maze.GenBacktrack" />
+      <module name="MazeGenerator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Generator" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hunor.maze.Generator" />
+      <module name="MazeGenerator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Te" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hunor.maze.Te" />
+      <module name="MazeGenerator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hunor.maze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.hunor.maze.Generator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Generator" />
+      <item itemvalue="Application.GenBacktrack" />
+      <item itemvalue="Application.Te" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Te" />
+        <item itemvalue="Application.Generator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4a4b0f8-03b7-4b67-bf91-c7275a496eb6" name="Default Changelist" comment="" />
+      <created>1583513443797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583513443797</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="70" key="#Code_Folding" timestamp="1583676619805">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="360" y="70" key="#Code_Folding/0.0.1536.824@0.0.1536.824" timestamp="1583676619805" />
+    <state x="222" y="66" width="1109" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583686622502">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="222" y="66" width="1109" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1583686622502" />
+    <state x="573" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1583689384024">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="573" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1583689384024" />
+    <state x="498" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583762295190">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1583762295190" />
+    <state x="542" y="172" key="FileChooserDialogImpl" timestamp="1585996945604">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="542" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1585996945604" />
+    <state width="1535" height="240" key="GridCell.Tab.0.bottom" timestamp="1584274285810">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1535" height="227" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583763694906" />
+    <state width="1535" height="240" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1584274285810" />
+    <state width="1535" height="240" key="GridCell.Tab.0.center" timestamp="1584274285810">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1535" height="227" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583763694906" />
+    <state width="1535" height="240" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1584274285810" />
+    <state width="1535" height="240" key="GridCell.Tab.0.left" timestamp="1584274285810">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1535" height="227" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583763694905" />
+    <state width="1535" height="240" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1584274285810" />
+    <state width="1535" height="240" key="GridCell.Tab.0.right" timestamp="1584274285810">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1535" height="227" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583763694906" />
+    <state width="1535" height="240" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1584274285810" />
+    <state width="1535" height="269" key="GridCell.Tab.1.bottom" timestamp="1583614147205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1535" height="269" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583614147205" />
+    <state width="1535" height="269" key="GridCell.Tab.1.center" timestamp="1583614147205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1535" height="269" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1583614147205" />
+    <state width="1535" height="269" key="GridCell.Tab.1.left" timestamp="1583614147205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1535" height="269" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1583614147205" />
+    <state width="1535" height="269" key="GridCell.Tab.1.right" timestamp="1583614147205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1535" height="269" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1583614147205" />
+    <state x="395" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1585996938738">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="395" y="235" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584293237863" />
+    <state x="395" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1585996938738" />
+    <state x="395" y="246" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1584183827940" />
+    <state x="1" y="33" key="new project wizard" timestamp="1584293290761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1584293290761" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583695379046">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583695379046" />
+  </component>
+</project>
